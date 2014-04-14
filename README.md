@@ -1,5 +1,7 @@
 # constraint-validations-email
 
+[![Build Status](https://travis-ci.org/listora/constraint-validations-email.svg?branch=master)](https://travis-ci.org/listora/constraint-validations-email)
+
 Adds support for validating emails to [constraint][]
 
 ## Installation
